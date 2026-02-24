@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Maxim! 👋
 
-<!--
-**zwphyro/zwphyro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Fullstack Developer (Python & React)
 
-Here are some ideas to get you started:
+#### 🛠 Tech Stack
+- Backend: Python, FastAPI, SQLAlchemy, Pydantic, asyncio.
+- Frontend: TypeScript, React, JavaScript, Tailwind CSS, Shadcn/ui.
+- Databases & Infrastructure: PostgreSQL, Redis, MongoDB, RabbitMQ, Celery.
+- DevOps: Docker & Compose, GitLab CI/CD, Linux (Bash), GitHub Actions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Get in touch
+Location: Tbilisi, Georgia (Open to remote/relocation).
+Telegram: @mstarodubovdev.
+Email: mstarodubovdev@gmail.com.
