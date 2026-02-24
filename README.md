@@ -4,11 +4,11 @@
 
 #### 🛠 Tech Stack
 - Backend: Python, FastAPI, SQLAlchemy, Pydantic, asyncio.
-- Frontend: TypeScript, React, JavaScript, Tailwind CSS, Shadcn/ui.
+- Frontend: TypeScript/JavaScript, React, Tailwind CSS, Shadcn/ui.
 - Databases & Infrastructure: PostgreSQL, Redis, MongoDB, RabbitMQ, Celery.
-- DevOps: Docker & Compose, GitLab CI/CD, Linux (Bash), GitHub Actions.
+- DevOps: Docker/Docker Compose, GitLab CI, Linux (Bash, SSH), GitHub Actions.
 
 #### 📫 Get in touch
-Location: Tbilisi, Georgia (Open to remote/relocation).  
+Current location: Tbilisi, Georgia (Open to remote/relocation).  
 Telegram: @mstarodubovdev.  
 Email: mstarodubovdev@gmail.com.  
