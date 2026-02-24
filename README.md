@@ -9,6 +9,6 @@
 - DevOps: Docker & Compose, GitLab CI/CD, Linux (Bash), GitHub Actions.
 
 #### 📫 Get in touch
-Location: Tbilisi, Georgia (Open to remote/relocation).
-Telegram: @mstarodubovdev.
-Email: mstarodubovdev@gmail.com.
+Location: Tbilisi, Georgia (Open to remote/relocation).  
+Telegram: @mstarodubovdev.  
+Email: mstarodubovdev@gmail.com.  
