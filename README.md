@@ -12,3 +12,4 @@
 Current location: Tbilisi, Georgia (Open to remote/relocation).  
 Telegram: @mstarodubovdev.  
 Email: mstarodubovdev@gmail.com.  
+LinkedIn: https://www.linkedin.com/in/maxim-starodubov-18a852372/.
